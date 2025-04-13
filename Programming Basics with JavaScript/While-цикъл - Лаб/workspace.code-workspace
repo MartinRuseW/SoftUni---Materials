@@ -1,0 +1,16 @@
+{
+    "workbench.colorTheme": "Default Light+",
+    "window.zoomLevel": 4,
+    "launch": {
+        "configurations": [
+            {
+                "type": "node",
+                "request": "launch",
+                "name": "Launch Program",
+                "program": "${file}"
+            }
+        ],
+        "compounds": []
+	},
+	"folders": []
+}
